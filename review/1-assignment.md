@@ -43,7 +43,7 @@ gdb를 실행하고 main을 disas한 결과이다.
 `b *main`을 입력해 main함수에 breakpoint를 걸어준다.
 > breakpoint를 걸고 run을 실행하면 breakpoint 전까지 프로그램이 실행한다.
 
-<img src="../src/img/1/8.png"> <img src="../src/img/1/10.png">
+<img src="../src/img/1/10.png">
 
 **이제 main의 스텍프레임의 변화를 살펴보자.**
 
